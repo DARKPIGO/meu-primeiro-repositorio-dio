@@ -1,2 +1,5 @@
-# meu-primeiro-repositorio-dio
-repositório do desafio da dio
+# Repositorio do desafio de git/github da DIO
+primeiro reposi 
+
+##links uteis
+[sintax bassica markdown](https://www.youtube.com/)
