@@ -1,6 +1,6 @@
 # Repositorio do desafio de git/github da DIO
 Meu primeiro repositorio
 
-##links uteis
+##link util
 
 [youtube](https://www.youtube.com/)
