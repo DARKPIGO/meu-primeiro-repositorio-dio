@@ -1,5 +1,5 @@
 # Repositorio do desafio de git/github da DIO
-primeiro reposi 
+Meu primeiro repositorio
 
 ##links uteis
 
