@@ -5,4 +5,8 @@ Meu primeiro repositorio
 
 [youtube](https://www.youtube.com/)
 
-O github fica me corrigindo sem minha permiçao e nao consigo desativar, por isso fica essas frases estranhas
+O github fica me corrigindo sem minha permiçao 
+
+Por isso fica essas frases estranhas.
+
+nao sei desativaro corretor
